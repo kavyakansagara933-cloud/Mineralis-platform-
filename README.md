@@ -2,18 +2,9 @@
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=1200&q=80" alt="MINERALIS Mining Operations Platform" width="100%" style="border-radius: 12px; max-height: 380px; object-fit: cover;" />
+<img src="frontend/public/mining_banner.jpg" alt="MINERALIS Mining Operations Platform" width="100%" style="border-radius: 12px; max-height: 420px; object-fit: cover;" />
 
 <br/><br/>
-
-```
-  __  __ _____ _   _ ______ _____            _      _____  _____ 
- |  \/  |_   _| \ | |  ____|  __ \   /\     | |    |_   _|/ ____|
- | \  / | | | |  \| | |__  | |__) | /  \    | |      | | | (___  
- | |\/| | | | | . ` |  __| |  _  / / /\ \   | |      | |  \___ \ 
- | |  | |_| |_| |\  | |____| | \ \/ ____ \  | |____ _| |_ ____) |
- |_|  |_|_____|_| \_|______|_|  \_\_/    \_\ |______|_____|_____/ 
-```
 
 **An enterprise-grade, deterministic AI intelligence platform for mining operations, heavy machinery telematics, and statutory compliance auditing.**
 
