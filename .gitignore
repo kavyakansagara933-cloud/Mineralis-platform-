@@ -15,8 +15,8 @@ uploads/
 data/
 *.db
 
-# Local AI models and generated artifacts
-models/
+# Local AI weights and generated artifacts
+/models/
 generated-reports/
 *.pdf
 *.docx
