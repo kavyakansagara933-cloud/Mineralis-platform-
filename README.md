@@ -161,6 +161,8 @@ mining-intelligence-platform/
 
 ---
 
+---
+
 ## 🔒 Security & Data Governance
 * **Zero Real Entity Exposure**: Fully sanitized enterprise architecture using generic divisions (Divisions A–H).
 * **Deterministic Cryptographic Seals**: SHA-256 signatures generated for every statutory certificate.
@@ -168,6 +170,20 @@ mining-intelligence-platform/
 
 ---
 
-## 👨‍💻 Developer & Portfolio Credit
-* **Platform**: MINERALIS Central Operations Platform
-* **Engineering**: Full-Stack Next.js 14, FastAPI, WebSocket Streaming, OCR & Machine Telematics.
+## 👨‍💻 Developer & Portfolio Info
+
+<div align="center">
+
+**Crafted by Kavya Kansagara**  
+*Full-Stack Engineer & AI Systems Architect*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/kavyakansagara933-cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+</div>
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
