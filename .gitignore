@@ -1,0 +1,28 @@
+# JavaScript
+node_modules/
+.next/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and local data
+.env
+.env.*
+!.env.example
+uploads/
+data/
+*.db
+
+# Local AI models and generated artifacts
+models/
+generated-reports/
+*.pdf
+*.docx
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
