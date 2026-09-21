@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img src="frontend/public/mining_banner.jpg" alt="MINERALIS Mining Operations Platform" width="100%" style="border-radius: 12px; max-height: 420px; object-fit: cover;" />
-
-<br/><br/>
+![MINERALIS Banner](frontend/public/mineralis_lockup.png)
 
 **An enterprise-grade, deterministic AI intelligence platform for mining operations, heavy machinery telematics, and statutory compliance auditing.**
 
