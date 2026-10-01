@@ -6,6 +6,8 @@
 
 **An enterprise-grade, deterministic AI intelligence platform for mining operations, heavy machinery telematics, and statutory compliance auditing.**
 
+[![CI Pipeline](https://github.com/kavyakansagara933-cloud/Mineralis-platform-/actions/workflows/ci.yml/badge.svg)](https://github.com/kavyakansagara933-cloud/Mineralis-platform-/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js 14](https://img.shields.io/badge/Next.js-14.2.35-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-2.0.0-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-12_Relational_Tables-003B57?style=flat&logo=sqlite)](https://sqlite.org/)
